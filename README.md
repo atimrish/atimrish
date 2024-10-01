@@ -31,3 +31,6 @@ Here are some ideas to get you started:
     <img class="tech" src="media/postgresql.svg" alt="postgresql" width="40">
     <img class="tech" src="media/mongodb.svg" alt="mongodb" width="40">
 </div>
+
+## 💻 Codewars:
+[https://www.codewars.com/users/atimrish/badges/large]
