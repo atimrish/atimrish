@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 </div>
 
 ## 💻 Codewars:
-[https://www.codewars.com/users/atimrish/badges/large]
+![Codewars](https://www.codewars.com/users/atimrish/badges/large)
