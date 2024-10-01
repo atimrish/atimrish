@@ -1,3 +1,9 @@
+<style>
+    .tech {
+        width: 70px;
+    }
+</style>   
+
 ## Hi there 👋
 
 <!--
@@ -14,3 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Технологии, которыми я владею
+<img class="tech" src="media/html5.svg" alt="html">
+<img class="tech" src="media/css3.svg" alt="html">
+<img class="tech" src="media/javascript.svg" alt="html">
+<img class="tech" src="media/typescript.svg" alt="html">
+<img class="tech" src="media/react.svg" alt="html">
+<img class="tech" src="media/vuedotjs.svg" alt="html">
+<img class="tech" src="media/sass.svg" alt="html">
+<img class="tech" src="media/tailwindcss.svg" alt="html">
+<img class="tech" src="media/nodedotjs.svg" alt="html">
+<img class="tech" src="media/php.svg" alt="html">
+<img class="tech" src="media/postgresql.svg">
+
