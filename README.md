@@ -15,12 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
+## 💻 Технологии, которыми я владею:
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; gap: 10px">
-    <img src="./media/laptop.svg" alt="laptop" width="32"> 
-    <h2 style="margin: 0">Технологии, которыми я владею:</h2>
-</div> 
 <div style="display: flex; gap: 10px; flex-wrap: wrap">
     <img class="tech" src="media/html5.svg" alt="html" width="40">
     <img class="tech" src="media/css3.svg" alt="css" width="40">
