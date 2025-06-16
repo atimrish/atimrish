@@ -1,10 +1,10 @@
-👋 Hello, I'm atimrish!
+# 👋 Hello, I'm atimrish!
 Frontend Developer | Open-Source Enthusiast | Problem Solver
 
-🚀 Passionate about building intuitive web experiences with modern tech.
-🌐 Remote-first, collaborating with global teams.
-📚 Constantly learning and sharing knowledge.
-🔧 Tech Stack
+🚀 Passionate about building intuitive web experiences with modern tech.  
+🌐 Remote-first, collaborating with global teams.  
+📚 Constantly learning and sharing knowledge.  
+🔧 Tech Stack  
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -35,5 +35,5 @@ Frontend Developer | Open-Source Enthusiast | Problem Solver
 ![Codewars](https://www.codewars.com/users/atimrish/badges/large)
 
 ### 📫 Let’s Connect!
-- ![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) @str7ct
-- ![gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) strcty11@gmail.com
+![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white) @str7ct  
+![gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white) strcty11@gmail.com  
