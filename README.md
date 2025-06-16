@@ -1,10 +1,10 @@
 ## 👋 Hello, I'm atimrish!
 Frontend Developer | Open-Source Enthusiast | Problem Solver
 
-🚀 Passionate about building intuitive web experiences with modern tech.
-🌐 Remote-first, collaborating with global teams.
-📚 Constantly learning and sharing knowledge.
-🔧 Tech Stack
+🚀 Passionate about building intuitive web experiences with modern tech.  
+🌐 Remote-first, collaborating with global teams.  
+📚 Constantly learning and sharing knowledge.  
+🔧 Tech Stack  
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
